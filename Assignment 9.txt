@@ -1,0 +1,29 @@
+ Do following task :(Use World Population as data source)
+
+>  Create World Population Report from Shared data with following requirement,
+
+
+> Show Country Wise Population
+> Life expectancy by Country
+> Surface Area by Country
+> Create Life expectancy Group which contains,
+   if Life expectancy in 0 to 30 then '0-30Yrs'
+   if Life expectancy in 31 to 50 then '31-50Yrs'
+   if Life expectancy in 51 to 70 then '51-70Yrs'
+   other wise it will go into '>70Yrs'
+> Show No of People in Survey by Life expectancy Group 
+> Create Chart with Country wise Avg Life expectancy for Top 10 countries across globe but if we select value from slicer as Region 
+ it should be applicable to only this visual others visuals should not be affected.
+> Show total Surface area, Avg Life and World Population but on this chart none of the selection of slicer should impact,
+ this will be independent from other visuals.
+
+
+Note: Read about following topics before coming to next session
+
+> What is table?
+> What is row?
+> What is column?
+> What is Primary Key?
+> What is Foreign Key?
+> What is Fact Table?
+> What is Dimension Table?
